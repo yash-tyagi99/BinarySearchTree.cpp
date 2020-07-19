@@ -126,3 +126,15 @@ int main()
 
     return 0;
 }
+
+//Output:
+
+//Binary Search Tree created (Inorder traversal):
+
+//30   40   60   65   70
+
+//Delete node 40
+
+//Inorder traversal for the modified Binary Search Tree:
+
+//30   60   65   70
